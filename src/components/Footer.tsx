@@ -40,13 +40,13 @@ const Footer = () => {
           <div className="space-y-3">
             <h4 className="font-semibold text-sm uppercase tracking-wider text-white/40">Контакты</h4>
             <div className="space-y-2 text-sm text-white/60">
-              <a href="tel:+78001234567" className="flex items-center gap-2 hover:text-white transition-colors">
+              <a href="tel:88005508198" className="flex items-center gap-2 hover:text-white transition-colors">
                 <Icon name="Phone" size={14} />
-                +7 (800) 123-45-67
+                8 800 550 81 98
               </a>
-              <a href="mailto:info@mafstroy.ru" className="flex items-center gap-2 hover:text-white transition-colors">
+              <a href="mailto:maf_stroy@mail.ru" className="flex items-center gap-2 hover:text-white transition-colors">
                 <Icon name="Mail" size={14} />
-                info@mafstroy.ru
+                maf_stroy@mail.ru
               </a>
             </div>
           </div>

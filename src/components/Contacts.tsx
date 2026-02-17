@@ -7,9 +7,9 @@ import Icon from "@/components/ui/icon";
 import { useToast } from "@/hooks/use-toast";
 
 const contactInfo = [
-  { icon: "Phone", label: "Телефон", value: "+7 (800) 123-45-67", href: "tel:+78001234567" },
-  { icon: "Mail", label: "Email", value: "info@mafstroy.ru", href: "mailto:info@mafstroy.ru" },
-  { icon: "MapPin", label: "Адрес", value: "Москва, ул. Безопасности, 1", href: "#" },
+  { icon: "Phone", label: "Телефон", value: "8 800 550 81 98", href: "tel:88005508198" },
+  { icon: "Mail", label: "Email", value: "maf_stroy@mail.ru", href: "mailto:maf_stroy@mail.ru" },
+  { icon: "MapPin", label: "Адрес", value: "г. Тула, Проезд Энергетиков, 10ф", href: "#" },
   { icon: "Clock", label: "Время работы", value: "Пн–Пт: 9:00–18:00", href: "#" },
 ];
 
@@ -116,11 +116,11 @@ const Contacts = () => {
                 Нужно проверить площадку срочно? Выезд эксперта в течение 24 часов!
               </p>
               <a
-                href="tel:+78001234567"
+                href="tel:88005508198"
                 className="inline-flex items-center gap-2 bg-white/20 hover:bg-white/30 transition-colors rounded-full px-4 py-2 text-sm font-medium"
               >
                 <Icon name="Phone" size={16} />
-                +7 (800) 123-45-67
+                8 800 550 81 98
               </a>
             </div>
           </div>
