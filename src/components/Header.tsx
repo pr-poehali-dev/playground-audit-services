@@ -8,7 +8,6 @@ const Header = () => {
   const links = [
     { href: "#hero", label: "Главная" },
     { href: "#services", label: "Услуги" },
-    { href: "#map", label: "Карта" },
     { href: "#about", label: "О нас" },
     { href: "#contacts", label: "Контакты" },
   ];

@@ -33,7 +33,6 @@ const Footer = () => {
             <h4 className="font-semibold text-sm uppercase tracking-wider text-white/40">Компания</h4>
             <div className="space-y-2 text-sm text-white/60">
               <a href="#about" className="block hover:text-white transition-colors">О нас</a>
-              <a href="#map" className="block hover:text-white transition-colors">Карта площадок</a>
               <a href="#contacts" className="block hover:text-white transition-colors">Контакты</a>
             </div>
           </div>
