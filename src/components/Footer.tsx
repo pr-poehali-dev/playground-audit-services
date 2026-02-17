@@ -11,11 +11,11 @@ const Footer = () => {
                 <Icon name="ShieldCheck" size={22} className="text-white" />
               </div>
               <span className="font-bold text-xl">
-                Площадка<span className="text-primary-foreground/70">Про</span>
+                Маф<span className="text-primary-foreground/70">строй</span>
               </span>
             </div>
             <p className="text-sm text-white/60 leading-relaxed">
-              Профессиональная проверка безопасности детских площадок с 2019 года
+              Мафстрой — профессиональная проверка безопасности детских площадок
             </p>
           </div>
 
@@ -45,9 +45,9 @@ const Footer = () => {
                 <Icon name="Phone" size={14} />
                 +7 (800) 123-45-67
               </a>
-              <a href="mailto:info@ploschadkapro.ru" className="flex items-center gap-2 hover:text-white transition-colors">
+              <a href="mailto:info@mafstroy.ru" className="flex items-center gap-2 hover:text-white transition-colors">
                 <Icon name="Mail" size={14} />
-                info@ploschadkapro.ru
+                info@mafstroy.ru
               </a>
             </div>
           </div>
@@ -55,7 +55,7 @@ const Footer = () => {
 
         <div className="border-t border-white/10 mt-8 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-white/40">
-            © 2026 ПлощадкаПро. Все права защищены.
+            © 2026 Мафстрой. Все права защищены.
           </p>
           <div className="flex items-center gap-1 text-sm text-white/40">
             Сделано с <Icon name="Heart" size={14} className="text-[hsl(var(--pink))] mx-1" /> для безопасности детей

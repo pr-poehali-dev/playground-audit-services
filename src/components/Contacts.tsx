@@ -8,7 +8,7 @@ import { useToast } from "@/hooks/use-toast";
 
 const contactInfo = [
   { icon: "Phone", label: "Телефон", value: "+7 (800) 123-45-67", href: "tel:+78001234567" },
-  { icon: "Mail", label: "Email", value: "info@ploschadkapro.ru", href: "mailto:info@ploschadkapro.ru" },
+  { icon: "Mail", label: "Email", value: "info@mafstroy.ru", href: "mailto:info@mafstroy.ru" },
   { icon: "MapPin", label: "Адрес", value: "Москва, ул. Безопасности, 1", href: "#" },
   { icon: "Clock", label: "Время работы", value: "Пн–Пт: 9:00–18:00", href: "#" },
 ];

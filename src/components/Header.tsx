@@ -21,7 +21,7 @@ const Header = () => {
             <Icon name="ShieldCheck" size={22} className="text-white" />
           </div>
           <span className="font-rubik font-bold text-xl text-foreground">
-            Площадка<span className="text-primary">Про</span>
+            Маф<span className="text-primary">строй</span>
           </span>
         </a>
 
